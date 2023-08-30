@@ -1,0 +1,30 @@
+
+body{
+    /* background-color: rgb(131, 230, 230); */
+}
+/* .btn,button{
+   
+    border-color: rgb(250, 249, 249);
+    border-radius: 10px;
+    margin-left: 100px;
+    border: none;
+} */
+.Container1{
+    margin-left: 300px;
+    margin-top: 80px;
+    border:2px solid  rgb(89, 172, 180); 
+    width:600px;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px rgb(89, 172, 180);
+    
+   
+}
+button:hover{
+    /* color: rgb(189, 161, 161);
+    background-color: black;
+    box-shadow: 4px 4px red; */
+}
+.User,button{
+    margin-top: 30px;
+}

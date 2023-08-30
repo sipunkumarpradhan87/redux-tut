@@ -1,0 +1,85 @@
+body {
+    /* margin: 0;
+    padding: 0; */
+    /* box-sizing: border-box;
+    background-color:rgb(91, 239, 239); */
+}
+#huf{
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+}
+.bilu,input{
+  /* display: flex;
+  flex: 8;
+  border-radius: 80px;
+  padding: 10px ; */
+  /* margin: 0px; */
+  /* height: 20px; */
+  /* width: 100px; */
+}
+
+/* .bilu,input::placeholder{
+    color:black;
+    align-items: center;
+    border-radius: 20px;
+} */
+.silu{
+    /* display: flex; */
+    /* margin-right: 200px; */
+}
+.df,label{
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.Sub,button{
+    /* margin-top: 30px;
+    height: 54px;
+    width: 100px; */
+}
+.Sub{
+    /* margin-right: 300px; */
+    /* margin:auto ; */
+}
+#sipu{
+    /* text-align: center; */
+}
+#sit,label{
+    /* display: flex;
+    align-items: center; */
+}
+/* .ContainerRegs{
+    margin-left: 450px;
+} */
+hr{
+    /* size: 20; */
+    /* color: blue; */
+    /* height: 20px; */
+    border-top: 3px solid rgb(9, 9, 9);
+}
+body{
+    background-color:#e0e5dec7;
+}
+.firstform{
+    margin-left: 410px;
+}
+.secondform{
+    margin-left: 410px;
+}
+.thirdform{
+    margin-left: 410px;
+}
+button{
+    margin-left:535px;
+    border:none;
+    color:white; 
+    width:100px;  
+    height:40px;
+    background-color:rgb(104, 129, 67);
+    border-radius: 8px;
+}
+ button:hover{
+    background-color: rgb(240, 11, 49);
+    color:white;
+    box-shadow: 5px 5px salmon;
+} 
